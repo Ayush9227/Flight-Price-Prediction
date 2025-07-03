@@ -78,7 +78,7 @@ User can input flight details and get predicted price using the trained ML model
 bash
 Copy
 Edit
-git clone https://github.com/your-username/Flight_Price_Prediction.git
+git clone https://github.com/Ayush9227/Flight_Price_Prediction.git
 cd Flight_Price_Prediction
 2. Install Python dependencies
 bash
